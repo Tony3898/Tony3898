@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejas Rana</h1>
 <h3 align="center">Tech Enthusiast, Passionate Programmer, and Gamer who loves to learn new things, meet new people, and wish to travel.</h3>
 
-- 👨‍💻 All of my projects are available at [https://tejasrana.in/](https://tejasrana.in/)
-
 - 📫 How to reach me **contact@tejasrana.in**
 
 <h3 align="left">Connect with me:</h3>
