@@ -3,14 +3,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tejasrana3898-blue?logo=linkedin)](https://www.linkedin.com/in/tejasrana3898/)
 [![Portfolio](https://img.shields.io/badge/Website-tejasrana.in-ff5722?style=flat&logo=firefox)](https://tejasrana.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Tony3898-black?logo=github)](https://github.com/Tony3898)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tony_3898)
 
-### 🚀 Senior Software Engineer | Full Stack | AWS | Microservices & Micro-Frontend Enthusiast
+
+### 🚀 Senior Full Stack Enggineer | AWS | Microservices & Micro-Frontend Enthusiast
 
 ---
 
 ### 💡 About Me
 
-I'm a Mumbai-based full stack developer with over **5 years** of experience building distributed systems, cloud-native apps, and scalable SaaS platforms.
+I'm a Mumbai-based full-stack developer with over **5 years** of experience building distributed systems, cloud-native apps, and scalable SaaS platforms.
 
 🔧 I'm passionate about:
 - Architecting **micro-frontends** and **microservices**
